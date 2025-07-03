@@ -1,0 +1,10 @@
+[project]
+name = "intentkit-cli-demo"
+version = "0.1.0"
+description = "IntentKit CLI Demo - Interactive stream agent demonstration"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "intentkit==0.6.0.dev4",
+]
+
